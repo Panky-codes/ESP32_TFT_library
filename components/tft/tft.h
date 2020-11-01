@@ -682,8 +682,8 @@ int compile_font_file(const char *fontfile, uint8_t dbg);
  */
 void getFontCharacters(uint8_t *buf);
 
-#endif
-
 #ifdef __cplusplus
 }
+#endif
+
 #endif
